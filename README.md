@@ -88,7 +88,7 @@ The Random Forest consistently outperformed all linear models by capturing non-l
 Clone the repository
 
 
-bashgit clone https://github.com/your-username/healthcare-insurance-cost-predictor.git
+bashgit clone https://github.com/brandonmutua/healthcare-insurance-cost-predictor.git
 cd healthcare-insurance-cost-predictor
 
 
